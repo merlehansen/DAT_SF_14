@@ -79,7 +79,19 @@ By June 2, you should have your data set available for mining and modeling. The 
 * feature engineering
 * ...
 
+In this milestone, you will need to post **at least 3 plots** created based on your data set and submit them to your github repo. You will give a short (< 90 seconds) presentation to the class using the plots to demonstrate one or more of the following:
+
+* the distribution(s) of the data points
+* if there are any outliers
+* if scaling and normalization is required and why
+* how do you plan to handle missing data
+* what features are significant
+* any other insights and fun facts that you discovered from the data set
+
+
 ### June 16: First Draft Due Before Class
+
+**Submission Link:** [https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform](https://docs.google.com/forms/d/1zrOqAEsNjdYY7-rFVk1qWb0T_49OFXloe1cLfLdS6-I/viewform)
 
 Your peers and instructors will provide feedback by June 23, according to [these guidelines](peer_review_guidelines.md).
 
@@ -102,3 +114,5 @@ Tips for success:
 ### July 7 and 9: Presentation
 
 Deliver your project presentation in class and submit all required deliverables (paper, slides, code, data, and data dictionary).
+
+**Presentation Schedule:** [link](https://docs.google.com/spreadsheets/d/1rT2lTDt8gcbMY3tB_3iY95E9rm_mWh_O05go-HPjGhA/edit#gid=0)

@@ -24,14 +24,18 @@ Week | Tuesday | Thursday
  1 | 4/28: [Introduction to Data Exploration](slides/lec01.pdf) | 4/30: [Introduction to Machine Learning](slides/lec02.pdf) 
  2 | 5/05: [Data Format, Access & Transformation](slides/lec03.pdf) | 5/07: [K-Nearest Neighbors Classification](slides/lec04.pdf) <br>**Final Project Kickoff**
  3 | 5/12: [Naive Bayes Classification](slides/lec05.pdf) <br>**HW1 Due** | 5/14: [Regression and Regularization](slides/lec06.pdf)
- 4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: K-Means Clustering <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
- 5 | 5/26: Decision Trees and Random Forests (1)  | 5/28: Decision Trees and Random Forests (2)
- 6 | 6/02: Ensemble Techniques <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: Support Vector Machines
- 7 | 6/09: Dimensionality Reduction  | 6/11: ROC Curves, AUC, & Imbalanced Classes
- 8 | 6/16: Recommendation Systems <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: Database Technologies
- 9 | 6/23: Final Project Work Session & Peer Feedback <br>**Project Milestone (PM4):** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: Map-Reduce & Hadoop
-10 | 6/30: Distributed Data Processing (Spark)  | 7/02: Network Analysis
+ 4 | 5/19: [Logistic Regression](slides/lec07.pdf) <br>**HW2 Due** | 5/21: [K-Means Clustering](slides/lec08.pdf) <br>**Project Milestone (PM1):** [Elevator Pitch](project#may-21-final-project-elevator-pitch)
+ 5 | 5/26: [Clustering & Decision Trees](slides/lec09.pdf)  | 5/28: [Tree-based Classifiers](slides/lec10.pdf) 
+ 6 | 6/02: [Ensemble Techniques](slides/lec11.pdf) <br>**Project Milestone (PM2):** [Data Ready](project#june-2-data-ready) | 6/04: [Support Vector Machines](slides/lec12.pdf)
+ 7 | 6/09: [Dimensionality Reduction](slides/lec13.pdf) <br>**HW3 Due**  | 6/11: [Imbalanced Classes and Evaluation Metrics](slides/lec14.pdf)
+ 8 | 6/16: [Recommendation Systems](slides/lec15.pdf) <br>**Project Milestone (PM3):** [First Draft Due](project#june-16-first-draft-due-before-class)  | 6/18: [Natural Language Processing](slides/lec16.pdf)
+ 9 | 6/23: Alumni Panel Discussion,<br> Peer Feedback \(**[Assignment](https://docs.google.com/spreadsheets/d/1E1DtubQdH8s45G2JHHA6Aht9mn9JQEmXNnwYxhor0Qk/edit#gid=0)**\) &  <br> Final Project Work Session  <br>**Project Milestone (PM4):** [Peer Feedback Due](project/peer_review_guidelines.md)  | 6/25: [Map-Reduce & Hadoop](slides/lec18.pdf)
+10 | 6/30: [Spark](slides/lec19.pdf) (password required)  | 7/02: [Network Analysis](slides/lec20.pdf)
 11 | 7/07: Project Presentations Day 1 <br>**Project Milestone (PM5):** Presentation   | 7/09: Project Presentations Day 2 <br>**Project Milestone (PM5):** Presentation & Paper
+
+
+
+**IMPORTANT: Presentation Schedule:** [link](https://docs.google.com/spreadsheets/d/1rT2lTDt8gcbMY3tB_3iY95E9rm_mWh_O05go-HPjGhA/edit#gid=0)
 
 
 ### Homework Schedule
@@ -40,4 +44,28 @@ HW | Topics | Dataset | Assigned | Due
 --- | --- | --- | --- | ---
 1 | [Data Exploration](homework/hw1) | [titanic](hw1/titanic.csv) | 5/05 | **5/12**
 2 | [KNN & Cross Validation](homework/hw2) | [iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) | 5/07 | **5/19**
-PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | 5/07 | **5/21**
+PM1 | [Elevator Pitch](project#may-21-final-project-elevator-pitch) | project | - | **5/21**
+PM2 | [Data Ready](project#june-2-data-ready) | project | - | **6/02**
+3 | [Decision Trees](homework/hw3) | [bank](homework/hw3) | 6/02 | **6/09**
+PM3 | [First Draft Due](project#june-16-first-draft-due-before-class) | project | - | **6/16 _(Before Class)_**
+PM4 | [Peer Feedback Due](project/peer_review_guidelines.md) | project | - | **6/23**
+PM5 | Presentation & Paper | project | - | **7/07**
+
+
+
+### Resources
+
+#### Working in the terminal
+- [Data Science at the Command Line](http://shop.oreilly.com/product/0636920032823.do)
+- [Learning Bash Scripting For Beginners](http://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+- [Advanced Bash Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+
+#### Statistical Learning Theory
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+#### Algorithms
+- [Top 10 Data Mining Algorithms in Plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+
+#### Python
+- [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+
